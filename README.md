@@ -22,7 +22,7 @@ After which location will have to be inputed inorder to write names on proper po
 
 Loc Input
 
-<img src="https://user-images.githubusercontent.com/76736715/211374830-16aa3bb3-49c2-435c-8fa9-b539c958328c.png"  width="25%" height="25%">
+<img src="https://user-images.githubusercontent.com/76736715/211374830-16aa3bb3-49c2-435c-8fa9-b539c958328c.png"  width="50%" height="50%">
 
 
 After location input the pdfs with proper names will be generated and saved in folder
