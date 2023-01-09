@@ -7,6 +7,3 @@ It takes a tamplet of invitation card in pdf and edit it (like writing name on i
 
 TechStek: Python, Selenium and PyTorch 
 
-
-Main
-![image](https://user-images.githubusercontent.com/76736715/211372389-66d6155e-5253-49d8-a49c-09be0b2211e3.png)
